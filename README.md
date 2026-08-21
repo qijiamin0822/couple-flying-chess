@@ -4,6 +4,10 @@
 
 在线预览：[cpfly.top](https://cpfly.top/)
 
+## 📌 项目来源
+
+本项目基于 [woniu9524/couple-flying-chess](https://github.com/woniu9524/couple-flying-chess) 进行二次开发（魔改）而来，感谢原项目作者及贡献者的开源工作。
+
 ## 🖼️ 界面预览
 
 ### 游戏主页
