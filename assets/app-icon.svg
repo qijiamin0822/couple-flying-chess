@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="80%">
+      <stop offset="0%" stop-color="#3B0F22"/>
+      <stop offset="55%" stop-color="#1A0812"/>
+      <stop offset="100%" stop-color="#050104"/>
+    </radialGradient>
+    <linearGradient id="lips" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF5C78"/>
+      <stop offset="45%" stop-color="#FF2D55"/>
+      <stop offset="100%" stop-color="#A70E45"/>
+    </linearGradient>
+    <linearGradient id="heart" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD60A"/>
+      <stop offset="55%" stop-color="#FF9F0A"/>
+      <stop offset="100%" stop-color="#FF2D55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <circle cx="300" cy="230" r="330" fill="#FF2D55" opacity="0.10"/>
+  <circle cx="780" cy="800" r="360" fill="#FF9F0A" opacity="0.08"/>
+  <circle cx="760" cy="260" r="260" fill="#FF375F" opacity="0.07"/>
+  <g id="content">
+    <path d="M296 470 C 344 402, 452 396, 512 448 C 572 396, 680 402, 728 470 C 728 560, 640 650, 512 670 C 384 650, 296 560, 296 470 Z" fill="url(#lips)" stroke="#FF7A92" stroke-width="14" stroke-linejoin="round"/>
+    <path d="M392 470 C 442 434, 482 426, 512 450 C 542 426, 582 434, 632 470 C 632 522, 588 560, 512 570 C 436 560, 392 522, 392 470 Z" fill="#FF9FB0" opacity="0.4"/>
+    <path d="M512 656 C 430 644, 352 572, 326 506 C 350 556, 414 590, 512 598 C 610 590, 674 556, 698 506 C 672 572, 594 644, 512 656 Z" fill="#FFB3C1" opacity="0.25"/>
+    <path d="M512 150 C 466 92, 372 112, 372 208 C 372 296, 512 390, 512 390 C 512 390, 652 296, 652 208 C 652 112, 558 92, 512 150 Z" fill="url(#heart)" stroke="#FFE17A" stroke-width="12"/>
+    <path d="M196 300 L220 318 L250 310 L232 338 L248 366 L218 348 L188 362 L204 334 L174 316 L204 318 Z" fill="#FFD60A" opacity="0.9"/>
+    <path d="M820 360 L846 382 L880 372 L858 400 L878 432 L846 410 L812 426 L832 396 L798 378 L830 382 Z" fill="#FF375F" opacity="0.85"/>
+    <circle cx="250" cy="560" r="18" fill="#FFD60A" opacity="0.8"/>
+    <circle cx="806" cy="586" r="16" fill="#FF2D55" opacity="0.8"/>
+  </g>
+</svg>
