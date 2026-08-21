@@ -4,6 +4,20 @@
 
 在线预览：[cpfly.top](https://cpfly.top/)
 
+## 🖼️ 界面预览
+
+### 游戏主页
+
+![游戏主页](docs/screenshots/home.png)
+
+### 任务主题库
+
+![任务主题库](docs/screenshots/themes.png)
+
+### 隐私设置
+
+![隐私设置](docs/screenshots/settings.png)
+
 ## ✨ 功能特性
 
 - **自定义主题**: 用户可以创建属于自己的游戏主题，设置特定的惩罚或奖励任务。
@@ -32,8 +46,8 @@
 
 1. 克隆项目到本地：
    ```bash
-   git clone <repository-url>
-   cd ludo
+   git clone https://github.com/qijiamin0822/couple-flying-chess.git
+   cd couple-flying-chess
    ```
 
 2. 安装依赖：
